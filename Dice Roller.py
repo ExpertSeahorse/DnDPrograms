@@ -52,3 +52,4 @@ def dice_roller(dice_ct=None, dice_size=None, to_beat=None):
 if __name__ == '__main__':
     # If running this program directly,
     dice_roller()
+    input()
